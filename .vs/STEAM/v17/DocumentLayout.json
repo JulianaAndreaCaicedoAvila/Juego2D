@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Juliana\\OneDrive\\Escritorio\\Unity\\STEAM\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C890D8AD-04A2-A6F1-6367-6DC92E44F915}|Assembly-CSharp.csproj|C:\\Users\\Juliana\\OneDrive\\Escritorio\\Unity\\STEAM\\assets\\scripts\\podervelocidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C890D8AD-04A2-A6F1-6367-6DC92E44F915}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\podervelocidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C890D8AD-04A2-A6F1-6367-6DC92E44F915}|Assembly-CSharp.csproj|C:\\Users\\Juliana\\OneDrive\\Escritorio\\Unity\\STEAM\\assets\\scripts\\jugador movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C890D8AD-04A2-A6F1-6367-6DC92E44F915}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\jugador movimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C890D8AD-04A2-A6F1-6367-6DC92E44F915}|Assembly-CSharp.csproj|C:\\Users\\Juliana\\OneDrive\\Escritorio\\Unity\\STEAM\\assets\\scripts\\camarascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C890D8AD-04A2-A6F1-6367-6DC92E44F915}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camarascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C890D8AD-04A2-A6F1-6367-6DC92E44F915}|Assembly-CSharp.csproj|c:\\users\\juliana\\onedrive\\escritorio\\unity\\steam\\assets\\scripts\\balascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C890D8AD-04A2-A6F1-6367-6DC92E44F915}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\balascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C890D8AD-04A2-A6F1-6367-6DC92E44F915}|Assembly-CSharp.csproj|C:\\Users\\Juliana\\OneDrive\\Escritorio\\Unity\\STEAM\\assets\\scripts\\zonamuertescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C890D8AD-04A2-A6F1-6367-6DC92E44F915}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\zonamuertescript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C890D8AD-04A2-A6F1-6367-6DC92E44F915}|Assembly-CSharp.csproj|C:\\Users\\Juliana\\OneDrive\\Escritorio\\Unity\\STEAM\\assets\\scripts\\unavidascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C890D8AD-04A2-A6F1-6367-6DC92E44F915}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\unavidascript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C890D8AD-04A2-A6F1-6367-6DC92E44F915}|Assembly-CSharp.csproj|C:\\Users\\Juliana\\OneDrive\\Escritorio\\Unity\\STEAM\\assets\\scripts\\enamigoscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C890D8AD-04A2-A6F1-6367-6DC92E44F915}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enamigoscript.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 231,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BalaScript.cs",
+              "DocumentMoniker": "C:\\Users\\Juliana\\OneDrive\\Escritorio\\Unity\\STEAM\\Assets\\Scripts\\BalaScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BalaScript.cs",
+              "ToolTip": "C:\\Users\\Juliana\\OneDrive\\Escritorio\\Unity\\STEAM\\Assets\\Scripts\\BalaScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BalaScript.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAEBdwAcAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:05:17.514Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "jugador Movimiento.cs",
+              "DocumentMoniker": "C:\\Users\\Juliana\\OneDrive\\Escritorio\\Unity\\STEAM\\Assets\\Scripts\\jugador Movimiento.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\jugador Movimiento.cs",
+              "ToolTip": "C:\\Users\\Juliana\\OneDrive\\Escritorio\\Unity\\STEAM\\Assets\\Scripts\\jugador Movimiento.cs",
+              "RelativeToolTip": "Assets\\Scripts\\jugador Movimiento.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAAowH4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T18:13:12.385Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PoderVelocidad.cs",
+              "DocumentMoniker": "C:\\Users\\Juliana\\OneDrive\\Escritorio\\Unity\\STEAM\\Assets\\Scripts\\PoderVelocidad.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PoderVelocidad.cs",
+              "ToolTip": "C:\\Users\\Juliana\\OneDrive\\Escritorio\\Unity\\STEAM\\Assets\\Scripts\\PoderVelocidad.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PoderVelocidad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T02:13:20.006Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UnaVidaScript.cs",
+              "DocumentMoniker": "C:\\Users\\Juliana\\OneDrive\\Escritorio\\Unity\\STEAM\\Assets\\Scripts\\UnaVidaScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UnaVidaScript.cs",
+              "ToolTip": "C:\\Users\\Juliana\\OneDrive\\Escritorio\\Unity\\STEAM\\Assets\\Scripts\\UnaVidaScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UnaVidaScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T01:42:22.957Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ZonaMuerteScript.cs",
+              "DocumentMoniker": "C:\\Users\\Juliana\\OneDrive\\Escritorio\\Unity\\STEAM\\Assets\\Scripts\\ZonaMuerteScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ZonaMuerteScript.cs",
+              "ToolTip": "C:\\Users\\Juliana\\OneDrive\\Escritorio\\Unity\\STEAM\\Assets\\Scripts\\ZonaMuerteScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ZonaMuerteScript.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T00:14:13.773Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EnamigoScript.cs",
+              "DocumentMoniker": "C:\\Users\\Juliana\\OneDrive\\Escritorio\\Unity\\STEAM\\Assets\\Scripts\\EnamigoScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnamigoScript.cs",
+              "ToolTip": "C:\\Users\\Juliana\\OneDrive\\Escritorio\\Unity\\STEAM\\Assets\\Scripts\\EnamigoScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnamigoScript.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAkAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T03:20:23.416Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CamaraScript.cs",
+              "DocumentMoniker": "C:\\Users\\Juliana\\OneDrive\\Escritorio\\Unity\\STEAM\\Assets\\Scripts\\CamaraScript.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\CamaraScript.cs",
+              "ToolTip": "C:\\Users\\Juliana\\OneDrive\\Escritorio\\Unity\\STEAM\\Assets\\Scripts\\CamaraScript.cs",
+              "RelativeToolTip": "Assets\\Scripts\\CamaraScript.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-13T02:48:03.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
